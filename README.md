@@ -1,4 +1,5 @@
 ### Hey, I'm Rohit! 👻
+We do some robotics round here 🥃
 <!--
 **rohit-kumar-j/rohit-kumar-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
