@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit-kumar-j" alt="rohit-kumar-j" /></a> </p>
 -->
 
-- 🔭 I’m currently working on [Koala(Robojax)](https://github.com/rohit-kumar-j/Koala.git)
+- 🔭 I’m currently working on [Koala](https://github.com/rohit-kumar-j/Koala.git)
 
 - 🌱 I’m currently learning **PyTorch**
 
