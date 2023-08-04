@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **jrohit1110@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/rohit kumar j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rohit kumar j" height="30" width="40" /></a>
+<h3 align="left">Current work: <a href="https://www.youtube.com/@jrohit1110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rohit kumar j" height="30" width="40" /></a> </h3>
+<!-- <p align="left"> -->
+<!-- <a href="https://www.youtube.com/@jrohit1110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rohit kumar j" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
