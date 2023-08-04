@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit-kumar-j&show_icons=true&locale=en&layout=compact" alt="rohit-kumar-j" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-kumar-j&" alt="rohit-kumar-j" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-kumar-j&" alt="rohit-kumar-j" /></p> -->
