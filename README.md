@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **PyTorch**
 
-- 🤝 I’m looking for help with [Robojax](https://youtu.be/xDFkWJIBaDE)
+- 🤝 I’m looking for help with [Robojax](https://youtu.be/xDFkWJIBaDE) (Source in Koala)
 
 - 💬 Ask me about **C/C++, Python, Lua**
 
